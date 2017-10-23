@@ -215,6 +215,7 @@ When naming an asset use these tables to determine the prefix and suffix to use 
 | Level (Lighting)        |            | _Lighting  |                                  |
 | Level (Geometry)        |            | _Geo       |                                  |
 | Level (Gameplay)        |            | _Gameplay  |                                  |
+| Level (Graybox)         |            | _GBX       |                                  |
 | Blueprint               | BP_        |            |                                  |
 | Material                | M_         |            |                                  |
 | Static Mesh             | SM_        |            |                                  |
